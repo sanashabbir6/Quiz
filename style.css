@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(81, 73, 73);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin: 25px;
+    color: rgb(232, 241, 244);
+    font-weight: bold;
+}
+
+fieldset {
+    border: none;
+    text-align: left;
+    padding: 30px;
+}
+
+p {
+    line-height: 3rem;
+    font-weight: bold;
+   
+}
